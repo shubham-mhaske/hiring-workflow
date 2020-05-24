@@ -20,6 +20,6 @@
 - password = abc
 
 #### admin - 
-- userid = Admin1
-- password = Admin1
+- userid = admin1
+- password = admin1
 
